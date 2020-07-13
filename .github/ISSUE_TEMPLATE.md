@@ -1,7 +1,7 @@
 ---
 name: Add new job
 about: Follow all instructions in the template before opening the job.
-title: "[City] <Occupation> in <Company Name>"
+title: "[City/State] <Occupation> in <Company Name>"
 ---
 
 ## About the company
@@ -14,7 +14,7 @@ title: "[City] <Occupation> in <Company Name>"
 
 ## Location
 
-... [STATE], [CITY], [NEIGHBORHOOD]
+...
 
 ## Requirements
 
@@ -49,14 +49,12 @@ title: "[City] <Occupation> in <Company Name>"
 - remote
 
 #### Type
+- permanent
 - contract
-- full-time
-- part-time
 - internship
-- temporary
-- commission
+- freelance
 
 #### Level
-- Entry
-- Mid
-- Senior
+- entry-level
+- mid-level
+- senior-level
